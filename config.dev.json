@@ -24,7 +24,7 @@
     "whiteListIds": [],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "Begie [ / ]",
+  "nickNameBot": " [ Nexusbot ʚĭɞ [ / ] ] ",
   "prefix": "/",
   "database": {
     "type": "sqlite",
